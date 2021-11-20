@@ -1,3 +1,9 @@
-This my first Java coding.
 
-First file for git sample. learned git command - init, add, commit, status, push
+<html>
+<head>
+<body>
+<h1> okay to proceed your code </h1>
+</body>
+</head>
+</html>
+
